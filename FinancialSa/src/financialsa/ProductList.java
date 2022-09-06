@@ -7,19 +7,19 @@ public class ProductList {
     public int id;
     
     public float getPrice(){
-        return price;
+        return this.price;
     }
     
-    public void setPrice(float price){
-        this.price = price;
+    public void setPrice(float p){
+        this.price = p;
     }
     
     public int getQuantity(){
-        return quantity;
+        return this.quantity;
     }
     
-    public void setQuantity(int quantity){
-        this.quantity = quantity;
+    public void setQuantity(int q){
+        this.quantity = q;
     }
     
     void status(){

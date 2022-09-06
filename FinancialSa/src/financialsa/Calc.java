@@ -5,10 +5,10 @@ public class Calc {
     private float all2;
     private float all3;
     
-    ProductList p = new ProductList();
+    ProductList pro;
     
     void calc(){
-        all = p.price * p.quantity;
+        all = pro.getPrice() * pro.getQuantity();
     }
     /*void calc2(){
         all2 = all;
@@ -18,7 +18,7 @@ public class Calc {
         System.out.println("====================");
         System.out.println("==Sout Supermarket==");
         System.out.println("====================");
-        System.out.println("total value: " + all + " U$");
+        System.out.println("total value: " + this.all + " U$");
         System.out.println("====================");
     }
 }
