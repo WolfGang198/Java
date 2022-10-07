@@ -19,6 +19,8 @@ public class Main {
                 
                 System.out.printf("Total: %.2f\n", gv.getValorTotal());
                 System.out.printf("Valor a pagar %.2f no %s\n", gv.valorAPagar(), gv.formaPagamento());
-                        
+                
+                
+                gv.fechaVenda();
 	}
 }
