@@ -27,7 +27,6 @@ public class GerenciaEstoque {
             n = ler.nextInt();    
             switch(n){
                 case 1:
-                    new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
                     p1.cadStatus();
                 break;
                 case 2:
