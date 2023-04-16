@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
-        <file>
-            <url>src/model/Produto.java</url>
-            <bookmark id="1">
-                <name/>
-                <line>12</line>
-                <key/>
-            </bookmark>
-        </file>
-    </editor-bookmarks>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/13742741608.CAMPUS-MCH/Documents/netbeans/gerenciaEstoque/src/gerenciaestoque/GerenciaEstoque.java</file>
-            <file>file:/C:/Users/13742741608.CAMPUS-MCH/Documents/netbeans/gerenciaEstoque/src/model/Venda.java</file>
-            <file>file:/C:/Users/13742741608.CAMPUS-MCH/Documents/netbeans/gerenciaEstoque/src/model/Produto.java</file>
-            <file>file:/C:/Users/13742741608.CAMPUS-MCH/Documents/netbeans/gerenciaEstoque/src/model/Interface.java</file>
-            <file>file:/C:/Users/13742741608.CAMPUS-MCH/Documents/netbeans/gerenciaEstoque/src/model/Fornecedor.java</file>
+            <file>file:/D:/jva%20projects/netbeans%202/netbeans%20projects/gerenciaEstoque/src/model/Venda.java</file>
+            <file>file:/D:/jva%20projects/netbeans%202/netbeans%20projects/gerenciaEstoque/src/gerenciaestoque/GerenciaEstoque.java</file>
+            <file>file:/D:/jva%20projects/netbeans%202/netbeans%20projects/gerenciaEstoque/src/model/Sair.java</file>
+            <file>file:/D:/jva%20projects/netbeans%202/netbeans%20projects/gerenciaEstoque/src/model/Produto.java</file>
+            <file>file:/D:/jva%20projects/netbeans%202/netbeans%20projects/gerenciaEstoque/src/model/Fornecedor.java</file>
+            <file>file:/D:/jva%20projects/netbeans%202/netbeans%20projects/gerenciaEstoque/src/model/Interface.java</file>
         </group>
     </open-files>
 </project-private>
